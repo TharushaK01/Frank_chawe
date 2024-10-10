@@ -22,6 +22,12 @@ To use this template:</br>
 2.	Modify the SCSS/CSS to match your branding.</br>
 3.	Add any additional JavaScript functionality as needed.</br>
 4.	Host the files on a web server or a service like GitHub Pages.</br>
+## Screenshots
+
+<img src="frank1.PNG" width="700" height="400"> 
+<img src="frank2.PNG" width="700" height="400"> 
+<img src="frank3.PNG" width="700" height="400"> 
+<img src="frank4.PNG" width="700" height="400"> 
 
 ### License
 This project is licensed under the MIT License.
